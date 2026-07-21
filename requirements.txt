@@ -1,0 +1,9 @@
+Flask
+opencv-python-headless==4.10.0.84
+ultralytics
+python-dotenv
+requests
+twilio
+reportlab
+pillow
+numpy
